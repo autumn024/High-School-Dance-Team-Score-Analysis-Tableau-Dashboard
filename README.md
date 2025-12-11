@@ -16,7 +16,7 @@ Explore the dashboard on [Tableau Public](https://public.tableau.com/views/Dance
 Scores were collected from official competition PDFs and compiled into structured datasets and cleaned in SQL Server Management for analysis.
 
 ## Documentation
-For a detailed breakdown of the Software Development Life Cycle (SDLC) steps I followed, see [Dance Team Dashboard SDLC Documentation](https://github.com/autumn024/Dance-Team-Tableau-Dashboard/blob/main/Dance%20Team%20Dashboard%20SDLC%20Documentation.pdf)
+For a detailed breakdown of the Software Development Life Cycle (SDLC) steps I followed, see [Dance Team Dashboard SDLC Documentation](https://github.com/autumn024/High-School-Dance-Team-Score-Analysis-Tableau-Dashboard/blob/main/SDLC%20Documentation%20.pdf)
 
 ## Future Improvements
 - Add mobile-friendly layouts
